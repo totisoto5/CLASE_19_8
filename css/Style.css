@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Silkscreen', cursive;
+    background-image: url('../img/fondo.jpg');
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+}
+
+
+.header img{
+    margin-left: 45%;
+}
+
+h1{
+    margin-bottom: 100px;
+    margin-top: 0;
+    text-align: center;
+    background-color: #C4C4C4; 
+    color: #005677;
+    height: 50px;
+    padding-top: 10px;
+    letter-spacing: 9px;
+}
+
+h2{
+    margin-top: 50px;
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 9px;
+}
+
+span{
+    margin-left: 80px;
+}
+
+footer{
+    margin-top: 75px;
+    background-color:  #005677;;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+footer .Batman{
+    margin-left: 45%;
+}
+
+footer img{
+    margin-left: 30px;
+}
+
+nav{
+    background-color: #C4C4C4;
+}
+
